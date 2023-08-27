@@ -1242,3 +1242,27 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.08.27-06.53.19:477][  0]LogViewport: Scene viewport resized to 1843x1333, mode Windowed.
 [2023.08.27-06.53.19:496][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.27-06.55.30:344][547]LogDerivedDataCache: C:/Users/amarkdavidson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.541 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11659 files in 13281 folders with total size 2155 MiB.
+[2023.08.27-06.58.21:072][172]LogSlate: Took 0.009647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.08.27-06.58.24:929][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:929][264]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.08.27-06.58.24:929][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:929][264]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.08.27-06.58.24:929][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: URL: C:\Users\amarkdavidson\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: URL: C:\Users\amarkdavidson\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.27-06.58.24:930][264]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.08.27-06.58.27:808][330]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.08.27-06.58.27:808][330]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64/ version
+[2023.08.27-06.59.02:870][416]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.08.27-06.59.02:870][416]LogWindows: Warning: URL: C:/Users/amarkdavidson/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/FinalProject/.git version
+[2023.08.27-06.59.06:143][493]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.08.27-06.59.06:143][493]LogWindows: Warning: URL: C:/Users/amarkdavidson/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/FinalProject/.git version
+[2023.08.27-06.59.06:147][493]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2023.08.27-06.59.13:650][644]SourceControl: Revision control is disabled
+[2023.08.27-06.59.13:650][644]LogSlate: Window 'Revision Control Login' being destroyed
